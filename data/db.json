@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "id": 3,
+      "Title": "Django Restful Api",
+      "content": "my name is matthew nwokolo Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta dolorem laudantium debitis! Accusamus reprehenderit quaerat beatae saepe! Cupiditate ea a vero quae dolor at aperiam impedit qui sunt voluptatum.",
+      "Author": "Nonso"
+    }
+  ]
+}
